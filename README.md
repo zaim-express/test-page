@@ -4,7 +4,7 @@
 
 - Верстать необходимо по методологии **[БЭМ](https://ru.bem.info/methodology/)**. Изображения в проекте должны быть в формате SVG, экспортируемые из макета Figma.
 
-- При выполнении тестовой работы использовать **фреймворк [vue.js](https://vuejs.org/)** или сборщик **webpack**, например, [GULP](https://gulpjs.com/).
+- При выполнении тестовой работы использовать **[vue.js](https://vuejs.org/)**, либо [react](https://react.dev/) или сборщик **webpack**, например, [GULP](https://gulpjs.com/).
 
 - Готовый результат выгрузить в git и предоставить к проекту доступ [onuchin@z-ex.ru](mailto:[onuchin@z-ex.ru]).
 
